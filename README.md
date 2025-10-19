@@ -30,41 +30,59 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">💻 Languages</h3>
 
-<p align="center"> 
-  <p align="center">
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🧰 Tools</h3>
+
+<p align="center">
+  <!-- AutoCAD -->
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+    <img src="https://img.shields.io/badge/AutoCAD-E50914?style=flat-square&logo=autodesk&logoColor=white" width="100"/>
+  </a>
+
   <!-- Fusion 360 -->
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Autodesk_Fusion_360_Logo.svg" alt="Fusion 360" width="40" height="40"/>
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
+    <img src="https://img.shields.io/badge/Fusion360-FF6F00?style=flat-square&logo=autodesk&logoColor=white" width="100"/>
   </a>
 
   <!-- LTspice -->
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://seeklogo.com/images/L/ltspice-logo-92C1E23902-seeklogo.com.png" alt="LTspice" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LTspice-00599C?style=flat-square&logo=analogdevices&logoColor=white" width="100"/>
   </a>
 
   <!-- KiCad -->
-  <a href="https://kicad.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/KiCad-Logo.svg" alt="KiCad" width="40" height="40"/>
+  <a href="https://www.kicad.org/" target="_blank">
+    <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white" width="100"/>
   </a>
 
   <!-- DaVinci Resolve -->
   <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/DaVinci_Resolve-233A61?style=flat-square&logo=davinciresolve&logoColor=white" width="130"/>
   </a>
 </p>
 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
+---
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ssanchez8&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchez8&theme=react&layout=compact" />
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ssanchez8&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanchez8&theme=react&layout=compact" />
-</p>
+
 
 ------
 
