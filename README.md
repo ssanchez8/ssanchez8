@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Sebastián <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Soy un estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia, actualmente en mi cuarto año de estudios. Mi interés radica en la ciencia e ingeniería de materiales, y sus aplicaciones dentro del campo biomédico. En este momento me encuentro en proceso de expandir mi proyecto profesional de manera internacional mediante una doble titulación en Francia para 2026</h3>
 
-- 🔬 En este momento soy miebro de **PROTOS UN**, un grupo estudiantil de bioingeniería, donde hago parte de un proyecto enfocado en el estudio del efecto de protuberancias óseas en un muñón mediante la creación, calibración y desarrollo de sensores FSR capaces de medir la presión ejercida por dichas protuberancias.
+- 🔬 En este momento soy miembro de **PROTOS UN**, un grupo estudiantil de bioingeniería, donde hago parte de un proyecto enfocado en el estudio del efecto de protuberancias óseas en un muñón mediante la creación, calibración y desarrollo de sensores FSR capaces de medir la presión ejercida por dichas protuberancias.
 
 - 📚 Me interesa combinar la ingeniería con el impacto social y el desarrollo sostenible.
 
