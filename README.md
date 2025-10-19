@@ -86,6 +86,6 @@
 
 ------
 
-[Sebastián Sánchez Mesa](https://github.com/BrantLauro)
+[Sebastián Sánchez Mesa](https://github.com/ssanchez8)
 
 Modificado por última vez el: 19/10/2025
