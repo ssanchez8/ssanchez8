@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hola 👋, soy Sebastián <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Soy un estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia, actualmente en mi cuarto año de estudios. Mi interés radica en la ciencia e ingeniería de materiales, y sus aplicaciones dentro del campo biomédico. En este momento me encuentro en proceso de expandir mi proyecto profesional de manera internacional mediante una doble titulación en Francia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
