@@ -21,7 +21,7 @@
 - Materiales funcionales e innovadores 
 - Aplicaciones biomédicas y de rehabilitación  
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contacto:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-sánchez-mesa-7072951a9)
@@ -30,7 +30,7 @@
   
 </div>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">💻 Lenguajes</h3>
 
 <p align="center">
   <!-- Python -->
@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="center">🧰 Tools</h3>
+<h3 align="center">🧰 Herramientas</h3>
 
 <p align="center">
   <!-- AutoCAD -->
