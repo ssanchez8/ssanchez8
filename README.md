@@ -9,7 +9,17 @@
 
 - 📫 Cómo contactarme: **ssanchezm883@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Lo que me gusta hacer: **jugar fútbol, tocar guitarra eléctrica y clásica, y aprender sobre cualquier  tema**
+
+  ### 🌍 Idiomas
+- **Español** – Nativo  
+- **Inglés** – Intermedio (B2)  
+- **Francés** – Intermedio (B2)
+
+  ### 🔬 Mis intereses:
+- Ciencia e ingeniería de materiales  
+- Materiales funcionales e innovadores 
+- Aplicaciones biomédicas y de rehabilitación  
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
